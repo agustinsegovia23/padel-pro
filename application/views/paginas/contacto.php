@@ -48,15 +48,15 @@
             
             <ul class="list-unstyled text-secondary fs-6 mb-4">
                 <li class="mb-3 d-flex align-items-center gap-2">
-                    <span class="text-info"><i class="fa-brands fa-discord"></i></span> 
+                    <span class="text-info"><a href="https://discord.com" target="_blank"><i class="fa-brands fa-discord"></i></a></span> 
                     <div><strong class="text-light">Discord oficial:</strong> Comunidad activa de jugadores y betas.</div>
                 </li>
                 <li class="mb-3 d-flex align-items-center gap-2">
-                    <span class="text-info"><i class="fa-brands fa-twitter"></i></span> 
+                    <span class="text-info"><a href="https://x.com/?lang=es" target="_blank"><i class="fa-brands fa-twitter"></i></a></span> 
                     <div><strong class="text-light">X (Twitter):</strong> Anuncios oficiales y notas de parche.</div>
                 </li>
                 <li class="mb-3 d-flex align-items-center gap-2">
-                    <span class="text-info"><i class="fa-brands fa-youtube"></i></span> 
+                    <span class="text-info"><a href="https://www.youtube.com" target="_blank"><i class="fa-brands fa-youtube"></i></a></span> 
                     <div><strong class="text-light">YouTube:</strong> Trailers, gameplay y dev diaries.</div>
                 </li>
             </ul>
@@ -65,10 +65,10 @@
             <div>
                 <span class="d-block text-secondary small fw-bold mb-2">CONSEGUILO EN:</span>
                 <div class="d-flex gap-2">      
-                    <a href="#" class="btn btn-sm text-white fw-semibold flex-fill d-flex align-items-center justify-content-center gap-2 py-2" style="background-color: #171a21; border: 1px solid rgba(255,255,255,0.15);">
+                    <a href="https://store.steampowered.com/?l=spanish" target="_blank" class="btn btn-sm text-white fw-semibold flex-fill d-flex align-items-center justify-content-center gap-2 py-2" style="background-color: #171a21; border: 1px solid rgba(255,255,255,0.15);">
                         <i class="fa-brands fa-steam fs-5"></i> Steam
                     </a>
-                    <a href="#" class="btn btn-sm text-white fw-semibold flex-fill d-flex align-items-center justify-content-center gap-2 py-2" style="background-color: #2a2a2a; border: 1px solid rgba(255,255,255,0.15);">
+                    <a href="https://store.epicgames.com/?lang=es-ES" target="_blank" class="btn btn-sm text-white fw-semibold flex-fill d-flex align-items-center justify-content-center gap-2 py-2" style="background-color: #2a2a2a; border: 1px solid rgba(255,255,255,0.15);">
                         <i class="fa-solid fa-gamepad fs-5 text-info"></i> Epic Games
                     </a>
                 </div>
