@@ -24,7 +24,7 @@
     <!-- 1ERA FILA TARJETAS -->
     <h3 class="text-info mb-4"><i class="fas fa-images me-2"></i> Capturas del Gameplay y Arte</h3>
     <div class="row g-4 mb-5">
-        <div class="col-md-4">
+        <div class="col-md-4 card-multimedia">
             <div class="card bg-dark text-white border-secondary h-100 shadow-sm">
                 <img src="<?= base_url('assets/img/cancha-principal.jpg') ?>" class="card-img-top" alt="Cancha Principal" style="height: 240px; object-fit: cover;">
                 <div class="card-body text-center">
@@ -33,7 +33,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 card-multimedia">
             <div class="card bg-dark text-white border-secondary h-100 shadow-sm">
                 <img src="<?= base_url('assets/img/personalizacion.jpg') ?>" class="card-img-top" alt="Personalización" style="height: 240px; object-fit: cover; object-position: center top;">
                 <div class="card-body text-center">
@@ -42,7 +42,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 card-multimedia">
             <div class="card bg-dark text-white border-secondary h-100 shadow-sm">
                 <img src="<?= base_url('assets/img/conceptual.jpg') ?>" class="card-img-top" alt="Arte Conceptual" style="height: 240px; object-fit: cover;">
                 <div class="card-body text-center">
@@ -56,7 +56,7 @@
     <!-- 2DA FILA TARJETAS -->
     <h3 class="text-info mb-4 mt-4"><i class="fas fa-pencil-alt me-2"></i> Bocetos del Videojuego</h3>
     <div class="row row-cols-1 row-cols-md-3 g-4">
-        <div class="col">
+        <div class="col card-multimedia">
             <div class="card bg-dark text-white border-secondary h-100 shadow-sm">
                 <img src="<?= base_url('assets/img/paleta-padel.jpg') ?>" class="card-img-top" alt="Diseño de Raqueta" style="height: 240px; object-fit: cover; object-position: center 15%;">
                 <div class="card-body text-center">
@@ -65,7 +65,7 @@
                 </div>
             </div>
         </div>
-        <div class="col">
+        <div class="col card-multimedia">
             <div class="card bg-dark text-white border-secondary h-100 shadow-sm">
                 <img src="<?= base_url('assets/img/menu-principal.jpg') ?>" class="card-img-top" alt="Concepto de Menú" style="height: 240px; object-fit: cover;">
                 <div class="card-body text-center">
@@ -74,7 +74,7 @@
                 </div>
             </div>
         </div>
-        <div class="col">
+        <div class="col card-multimedia">
             <div class="card bg-dark text-white border-secondary h-100 shadow-sm">
                 <img src="<?= base_url('assets/img/alex-completo.jpg') ?>" class="card-img-top" alt="Postura de Personaje" style="height: 240px; object-fit: cover; object-position: center top;">
                 <div class="card-body text-center">
